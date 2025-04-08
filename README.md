@@ -1,1 +1,1 @@
-# OS
+# OS Kernel (School Project)
